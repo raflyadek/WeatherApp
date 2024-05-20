@@ -29,6 +29,10 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+//Build the layout first and then logic business
+//get used to write comment for every function you write,
+//it will be benefifcial for the future and for your understanding
+
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
