@@ -1,4 +1,4 @@
-package com.example.weatherapp
+package com.example.weatherapp.mvvm.view
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
